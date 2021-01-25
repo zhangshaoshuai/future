@@ -1,0 +1,8 @@
+There is happen to be + n.
+exm.
+	there is happen to be a cup of tea.
+
+
+You can see from the IRQs that are missing that the file shows only interrupts corresponding to installed handlers. 
+
+analysis: you can see () that the file shows only interrupts .....
